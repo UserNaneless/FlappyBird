@@ -1,0 +1,3 @@
+/home/naneless/sandbox/GameTemplateLinux/build/CMakeFiles/game.dir
+/home/naneless/sandbox/GameTemplateLinux/build/CMakeFiles/edit_cache.dir
+/home/naneless/sandbox/GameTemplateLinux/build/CMakeFiles/rebuild_cache.dir
